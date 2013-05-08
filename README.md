@@ -1,4 +1,4 @@
 MvxEmptyProject
 ===============
 
-Template for MvvmCross projects (Core, Droid, Touch)
+OS X template for MvvmCross projects (Core, Droid, Touch)
